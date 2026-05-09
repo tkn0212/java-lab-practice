@@ -1,4 +1,4 @@
-
+//test
 public class StringMethod {
 	static String addString(String s1, int index, String s2) {
 		return s1.substring(0, index + 1) + s2 + s1.substring(index + 1);
